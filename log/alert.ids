@@ -1,0 +1,1715 @@
+[**] [1:538:15] NETBIOS SMB IPC$ unicode share access [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+06/21-14:10:25.915172 192.168.111.115:31718 -> 192.168.111.150:139
+TCP TTL:128 TOS:0x0 ID:8435 IpLen:20 DgmLen:122 DF
+***AP*** Seq: 0x3500A01  Ack: 0xB0D7803A  Win: 0x802  TcpLen: 20
+
+[**] [1:2102:9] NETBIOS SMB SMB_COM_TRANSACTION Max Data Count of 0 DOS Attempt [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+06/21-14:10:25.948839 192.168.111.115:31718 -> 192.168.111.150:139
+TCP TTL:128 TOS:0x0 ID:8438 IpLen:20 DgmLen:158 DF
+***AP*** Seq: 0x3500A53  Ack: 0xB0D78076  Win: 0x802  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11110][Xref => http://www.microsoft.com/technet/security/bulletin/MS02-045.mspx][Xref => http://www.corest.com/common/showdoc.php?idx=262][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0724][Xref => http://www.securityfocus.com/bid/5556]
+
+[**] [1:2102:9] NETBIOS SMB SMB_COM_TRANSACTION Max Data Count of 0 DOS Attempt [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+06/21-14:10:30.455102 192.168.111.115:31718 -> 192.168.111.150:139
+TCP TTL:128 TOS:0x0 ID:8543 IpLen:20 DgmLen:172 DF
+***AP*** Seq: 0x3500AC9  Ack: 0xB0D780DA  Win: 0x801  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11110][Xref => http://www.microsoft.com/technet/security/bulletin/MS02-045.mspx][Xref => http://www.corest.com/common/showdoc.php?idx=262][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0724][Xref => http://www.securityfocus.com/bid/5556]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:10:33.919128 192.168.111.115:31743 -> 52.51.75.18:443
+TCP TTL:128 TOS:0x0 ID:7257 IpLen:20 DgmLen:273 DF
+***AP*** Seq: 0xB022FA7A  Ack: 0x8CF61E9D  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:36.908441 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5832 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33774 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 62163
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:36.960711 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5833 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33775 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 14227
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:37.012094 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5834 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33776 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 9289
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:37.940695 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5836 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33777 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 62163
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:37.992382 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5837 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33778 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 14227
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:38.044198 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5838 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33779 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 9289
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:38.508843 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5839 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33780 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 62163
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:38.560898 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5840 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33781 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 14227
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:38.612605 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5841 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33782 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 9289
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:39.542050 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5842 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33783 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 62163
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:39.593855 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5843 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33784 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 14227
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:39.645677 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5844 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58389
+UDP TTL:64 TOS:0x0 ID:33785 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 9289
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:459:7] ICMP unassigned type 1 undefined code [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:54.550621 fe80:0000:0000:0000:81fb:4d2c:8173:58a4 -> fe80:0000:0000:0000:0abd:43ff:fef6:41b6
+IPV6-ICMP TTL:128 TOS:0x0 ID:0 IpLen:40 DgmLen:121
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:10:54.551057 192.168.111.115 -> 192.168.111.151
+ICMP TTL:128 TOS:0x0 ID:7161 IpLen:20 DgmLen:116
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.151:5355 -> 192.168.111.115:62030
+UDP TTL:255 TOS:0x0 ID:16326 IpLen:20 DgmLen:88 DF
+Len: 60  Csum: 33184
+(60 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:1411:10] SNMP public access udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:11:12.559035 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:5656 IpLen:20 DgmLen:106
+Len: 78
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0517][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088][Xref => http://www.securityfocus.com/bid/2112]
+
+[**] [1:1417:9] SNMP request udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:11:12.559035 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:5656 IpLen:20 DgmLen:106
+Len: 78
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:12:41.919223 192.168.111.115 -> 192.168.111.11
+ICMP TTL:128 TOS:0x0 ID:23605 IpLen:20 DgmLen:96
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.11:53 -> 192.168.111.115:65041
+UDP TTL:128 TOS:0x0 ID:5033 IpLen:20 DgmLen:68
+Len: 40  Csum: 39286
+(40 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:12:43.728068 192.168.111.115 -> 192.168.111.11
+ICMP TTL:128 TOS:0x0 ID:23619 IpLen:20 DgmLen:97
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.11:53 -> 192.168.111.115:59744
+UDP TTL:128 TOS:0x0 ID:5044 IpLen:20 DgmLen:69 DF
+Len: 41  Csum: 50306
+(41 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:12:56.431386 192.168.111.115 -> 192.168.111.11
+ICMP TTL:128 TOS:0x0 ID:5852 IpLen:20 DgmLen:105
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.11:53 -> 192.168.111.115:50780
+UDP TTL:128 TOS:0x0 ID:5125 IpLen:20 DgmLen:77 DF
+Len: 49  Csum: 21977
+(49 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:00.903096 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5853 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33798 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 2704
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:00.955341 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5854 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33799 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 20303
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:01.006776 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5855 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33800 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 15365
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:01.936522 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5856 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33801 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 2704
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:01.987588 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5857 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33802 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 20303
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:02.039605 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5858 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33803 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 15365
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:02.504200 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5859 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33804 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 2704
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:02.555978 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5860 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33805 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 20303
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:02.607974 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5861 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33806 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 15365
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:03.536748 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5862 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33807 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 2704
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:03.588631 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5863 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33808 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 20303
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:03.640544 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5864 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:52313
+UDP TTL:64 TOS:0x0 ID:33809 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 15365
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:04.724084 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5865 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33810 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 1842
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:04.775993 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5866 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33811 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 19441
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:04.827844 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5867 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33812 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 14503
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:05.757221 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5869 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33813 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 1842
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:05.809133 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5870 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33814 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 19441
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:05.860911 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5871 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33815 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 14503
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:06.185954 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5872 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33816 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 1842
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:06.237638 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5873 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33817 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 19441
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:06.289675 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5874 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33818 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 14503
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:07.219230 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5875 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33819 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 1842
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:07.270953 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5876 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33820 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 19441
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:13:07.322873 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5877 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:53175
+UDP TTL:64 TOS:0x0 ID:33821 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 14503
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:13:12.576081 192.168.111.115:31827 -> 52.51.75.18:443
+TCP TTL:128 TOS:0x0 ID:7271 IpLen:20 DgmLen:273 DF
+***AP*** Seq: 0xEDA4EFB1  Ack: 0xAFF1A65C  Win: 0xFAF0  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:18.792386 192.168.111.115:31849 -> 108.177.15.102:443
+TCP TTL:128 TOS:0x0 ID:28728 IpLen:20 DgmLen:557 DF
+***AP*** Seq: 0x8CF07ADC  Ack: 0x641800F0  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:50.890751 192.168.111.115:31860 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7399 IpLen:20 DgmLen:258 DF
+***AP*** Seq: 0x9DBCD5D7  Ack: 0x33644AF8  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:50.892188 192.168.111.115:31871 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7406 IpLen:20 DgmLen:258 DF
+***AP*** Seq: 0xCCEEFDF2  Ack: 0x73E5BD6E  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:50.893487 192.168.111.115:31881 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7417 IpLen:20 DgmLen:249 DF
+***AP*** Seq: 0x3A22500D  Ack: 0x8A929316  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:50.896656 192.168.111.115:31862 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7422 IpLen:20 DgmLen:258 DF
+***AP*** Seq: 0xCCBAA8D7  Ack: 0x27E456B3  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:50.896748 192.168.111.115:31875 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7425 IpLen:20 DgmLen:258 DF
+***AP*** Seq: 0xA6692F47  Ack: 0xDEFAA  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:50.980893 192.168.111.115:31883 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7473 IpLen:20 DgmLen:254 DF
+***AP*** Seq: 0xA7528F5C  Ack: 0x8EA7B3F5  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:50.981050 192.168.111.115:31856 -> 192.30.253.113:443
+TCP TTL:128 TOS:0x0 ID:24952 IpLen:20 DgmLen:238 DF
+***AP*** Seq: 0x4DDE762C  Ack: 0xE132491A  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:50.981182 192.168.111.115:31858 -> 192.30.253.113:443
+TCP TTL:128 TOS:0x0 ID:24953 IpLen:20 DgmLen:238 DF
+***AP*** Seq: 0x5BC7F472  Ack: 0xA5462A5C  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:50.981974 192.168.111.115:31866 -> 192.30.253.117:443
+TCP TTL:128 TOS:0x0 ID:1094 IpLen:20 DgmLen:242 DF
+***AP*** Seq: 0x6EC45EA  Ack: 0xCE8D87F3  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:50.991787 192.168.111.115:31855 -> 192.30.253.113:443
+TCP TTL:128 TOS:0x0 ID:24960 IpLen:20 DgmLen:238 DF
+***AP*** Seq: 0x12A5239E  Ack: 0xDB90C89A  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:15:52.626294 192.168.111.115:31885 -> 192.30.253.124:443
+TCP TTL:128 TOS:0x0 ID:16832 IpLen:20 DgmLen:225 DF
+***AP*** Seq: 0x102200  Ack: 0x9A721024  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:16:00.794945 192.168.111.115:31898 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7556 IpLen:20 DgmLen:258 DF
+***AP*** Seq: 0x83D611F0  Ack: 0xB384D34F  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:16:00.797842 192.168.111.115:31899 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7558 IpLen:20 DgmLen:557 DF
+***AP*** Seq: 0x26D98E4B  Ack: 0x9DE0F224  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:16:01.051055 192.168.111.115:31901 -> 192.30.253.125:443
+TCP TTL:128 TOS:0x0 ID:14106 IpLen:20 DgmLen:257 DF
+***AP*** Seq: 0xA4E62339  Ack: 0x9C1671B1  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:03.401323 192.168.111.115 -> 192.168.111.11
+ICMP TTL:128 TOS:0x0 ID:24356 IpLen:20 DgmLen:164
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.11:53 -> 192.168.111.115:64810
+UDP TTL:128 TOS:0x0 ID:6882 IpLen:20 DgmLen:136 DF
+Len: 108  Csum: 24256
+(108 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:16:18.081044 192.168.111.115:31905 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7583 IpLen:20 DgmLen:557 DF
+***AP*** Seq: 0x52CBE578  Ack: 0x69D0E80C  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:16:18.298850 192.168.111.115:31909 -> 192.30.253.125:443
+TCP TTL:128 TOS:0x0 ID:14180 IpLen:20 DgmLen:257 DF
+***AP*** Seq: 0xF0F8DDAB  Ack: 0xE18355CC  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:40.542749 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5880 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33894 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 55403
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:40.594580 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5881 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33895 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 7467
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:40.646485 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5882 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33896 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 2529
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:41.576373 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5883 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33897 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 55403
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:41.628243 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5884 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33898 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 7467
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:41.680169 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5885 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33899 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 2529
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:44.323814 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5886 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33900 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 55403
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:44.375944 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5887 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33901 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 7467
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:44.427734 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5888 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33902 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 2529
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:45.356923 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5889 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33903 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 55403
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:45.408734 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5890 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33904 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 7467
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:45.460889 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5891 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33905 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 2529
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:46.337949 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5892 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33906 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 55403
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:46.389938 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5893 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33907 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 7467
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:46.441694 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5894 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33908 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 2529
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:47.371375 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5895 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33909 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 55403
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:47.423136 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5896 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33910 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 7467
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:16:47.474916 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5897 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:65149
+UDP TTL:64 TOS:0x0 ID:33911 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 2529
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:2102:9] NETBIOS SMB SMB_COM_TRANSACTION Max Data Count of 0 DOS Attempt [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+06/21-14:10:30.455102 192.168.111.115:16435 -> 192.168.111.151:139
+TCP TTL:128 TOS:0x0 ID:4153 IpLen:20 DgmLen:169 DF
+***AP*** Seq: 0x7C3C845C  Ack: 0x3AE11B02  Win: 0x528  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11110][Xref => http://www.microsoft.com/technet/security/bulletin/MS02-045.mspx][Xref => http://www.corest.com/common/showdoc.php?idx=262][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0724][Xref => http://www.securityfocus.com/bid/5556]
+
+[**] [1:466:4] ICMP L3retriever Ping [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:17:24.306383 192.168.111.115 -> 192.168.111.10
+ICMP TTL:32 TOS:0x0 ID:30523 IpLen:20 DgmLen:60
+Type:8  Code:0  ID:1   Seq:2181  ECHO
+[Xref => http://www.whitehats.com/info/IDS311]
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:17:24.306383 192.168.111.115 -> 192.168.111.10
+ICMP TTL:32 TOS:0x0 ID:30523 IpLen:20 DgmLen:60
+Type:8  Code:0  ID:1   Seq:2181  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:17:24.307200 192.168.111.10 -> 192.168.111.115
+ICMP TTL:128 TOS:0x0 ID:32644 IpLen:20 DgmLen:60
+Type:0  Code:0  ID:1  Seq:2181  ECHO REPLY
+
+[**] [1:466:4] ICMP L3retriever Ping [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:17:31.065612 192.168.111.115 -> 192.168.111.10
+ICMP TTL:32 TOS:0x0 ID:30546 IpLen:20 DgmLen:60
+Type:8  Code:0  ID:1   Seq:2182  ECHO
+[Xref => http://www.whitehats.com/info/IDS311]
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:17:31.065612 192.168.111.115 -> 192.168.111.10
+ICMP TTL:32 TOS:0x0 ID:30546 IpLen:20 DgmLen:60
+Type:8  Code:0  ID:1   Seq:2182  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:17:31.066160 192.168.111.10 -> 192.168.111.115
+ICMP TTL:128 TOS:0x0 ID:32663 IpLen:20 DgmLen:60
+Type:0  Code:0  ID:1  Seq:2182  ECHO REPLY
+
+[**] [1:466:4] ICMP L3retriever Ping [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:17:37.825536 192.168.111.115 -> 192.168.111.10
+ICMP TTL:32 TOS:0x0 ID:30564 IpLen:20 DgmLen:60
+Type:8  Code:0  ID:1   Seq:2183  ECHO
+[Xref => http://www.whitehats.com/info/IDS311]
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:17:37.825536 192.168.111.115 -> 192.168.111.10
+ICMP TTL:32 TOS:0x0 ID:30564 IpLen:20 DgmLen:60
+Type:8  Code:0  ID:1   Seq:2183  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:17:37.825925 192.168.111.10 -> 192.168.111.115
+ICMP TTL:128 TOS:0x0 ID:32727 IpLen:20 DgmLen:60
+Type:0  Code:0  ID:1  Seq:2183  ECHO REPLY
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:18:32.790520 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5898 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:49271
+UDP TTL:64 TOS:0x0 ID:33948 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 5746
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:18:32.842248 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5899 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:49271
+UDP TTL:64 TOS:0x0 ID:33949 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 23345
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:18:32.894121 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5900 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:49271
+UDP TTL:64 TOS:0x0 ID:33950 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 18407
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:18:33.823552 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5901 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:49271
+UDP TTL:64 TOS:0x0 ID:33951 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 5746
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:18:33.875299 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5902 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:49271
+UDP TTL:64 TOS:0x0 ID:33952 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 23345
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:18:33.927233 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5903 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:49271
+UDP TTL:64 TOS:0x0 ID:33953 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 18407
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:18:36.022562 192.168.111.115:31933 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7626 IpLen:20 DgmLen:228 DF
+***AP*** Seq: 0x9695A6FF  Ack: 0x6266EBE8  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:18:48.519848 192.168.111.115 -> 192.168.111.11
+ICMP TTL:128 TOS:0x0 ID:24946 IpLen:20 DgmLen:134
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.11:53 -> 192.168.111.115:52474
+UDP TTL:128 TOS:0x0 ID:7261 IpLen:20 DgmLen:106 DF
+Len: 78  Csum: 19173
+(78 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:19:03.106409 192.168.111.115:31940 -> 172.217.23.14:443
+TCP TTL:128 TOS:0x0 ID:27174 IpLen:20 DgmLen:243 DF
+***AP*** Seq: 0x35A78601  Ack: 0x1337FBC9  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:1411:10] SNMP public access udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:19:08.830968 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:7528 IpLen:20 DgmLen:70
+Len: 42
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0517][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088][Xref => http://www.securityfocus.com/bid/2112]
+
+[**] [1:1417:9] SNMP request udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:19:08.830968 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:7528 IpLen:20 DgmLen:70
+Len: 42
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:1411:10] SNMP public access udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:19:08.837352 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:7529 IpLen:20 DgmLen:140
+Len: 112
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0517][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088][Xref => http://www.securityfocus.com/bid/2112]
+
+[**] [1:1417:9] SNMP request udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:19:08.837352 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:7529 IpLen:20 DgmLen:140
+Len: 112
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:1411:10] SNMP public access udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:19:08.849024 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:7530 IpLen:20 DgmLen:89
+Len: 61
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0517][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088][Xref => http://www.securityfocus.com/bid/2112]
+
+[**] [1:1417:9] SNMP request udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:19:08.849024 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:7530 IpLen:20 DgmLen:89
+Len: 61
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:1411:10] SNMP public access udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:19:08.858102 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:7531 IpLen:20 DgmLen:145
+Len: 117
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0517][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088][Xref => http://www.securityfocus.com/bid/2112]
+
+[**] [1:1417:9] SNMP request udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:19:08.858102 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:7531 IpLen:20 DgmLen:145
+Len: 117
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:1411:10] SNMP public access udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:19:08.876180 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:7532 IpLen:20 DgmLen:109
+Len: 81
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0517][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088][Xref => http://www.securityfocus.com/bid/2112]
+
+[**] [1:1417:9] SNMP request udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:19:08.876180 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:7532 IpLen:20 DgmLen:109
+Len: 81
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:19:13.726320 192.168.111.115:31941 -> 54.210.196.137:443
+TCP TTL:128 TOS:0x0 ID:27382 IpLen:20 DgmLen:283 DF
+***AP*** Seq: 0x65742C7B  Ack: 0x1EECD5E7  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:19:17.909466 192.168.111.115:31942 -> 192.30.253.112:443
+TCP TTL:128 TOS:0x0 ID:22444 IpLen:20 DgmLen:270 DF
+***AP*** Seq: 0xFB3CF555  Ack: 0x77664A8D  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:19:18.697103 192.168.111.115:31945 -> 192.30.253.125:443
+TCP TTL:128 TOS:0x0 ID:14254 IpLen:20 DgmLen:257 DF
+***AP*** Seq: 0x132F6307  Ack: 0x94EED025  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:19:20.545261 192.168.111.115:31946 -> 192.30.253.116:443
+TCP TTL:128 TOS:0x0 ID:29820 IpLen:20 DgmLen:270 DF
+***AP*** Seq: 0x95042544  Ack: 0x73936D31  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:19:21.329497 192.168.111.115 -> 192.168.111.11
+ICMP TTL:128 TOS:0x0 ID:25078 IpLen:20 DgmLen:212
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.11:53 -> 192.168.111.115:60995
+UDP TTL:128 TOS:0x0 ID:7364 IpLen:20 DgmLen:184 DF
+Len: 156  Csum: 43978
+(156 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:19:58.526871 192.168.111.115:31954 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7652 IpLen:20 DgmLen:557 DF
+***AP*** Seq: 0x8C2B2608  Ack: 0x67969C52  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:19:58.689490 192.168.111.115:31955 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7694 IpLen:20 DgmLen:557 DF
+***AP*** Seq: 0xA38CFC5C  Ack: 0x2A31A79  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:19:58.693058 192.168.111.115:31956 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7703 IpLen:20 DgmLen:557 DF
+***AP*** Seq: 0x93C9E730  Ack: 0x620A4088  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:20:00.807885 192.168.111.115:31961 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7769 IpLen:20 DgmLen:557 DF
+***AP*** Seq: 0xC290CA3A  Ack: 0xDC4B2D91  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:20:02.659717 192.168.111.115:31964 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:7929 IpLen:20 DgmLen:257 DF
+***AP*** Seq: 0x6B962BB4  Ack: 0x91DFFAE5  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:11.165661 192.168.111.115 -> 192.168.111.11
+ICMP TTL:128 TOS:0x0 ID:9338 IpLen:20 DgmLen:103
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.11:53 -> 192.168.111.115:51083
+UDP TTL:128 TOS:0x0 ID:7517 IpLen:20 DgmLen:75 DF
+Len: 47  Csum: 62167
+(47 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:12.071800 192.168.111.115 -> 192.168.111.11
+ICMP TTL:128 TOS:0x0 ID:10075 IpLen:20 DgmLen:92
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.11:53 -> 192.168.111.115:59674
+UDP TTL:128 TOS:0x0 ID:7518 IpLen:20 DgmLen:64 DF
+Len: 36  Csum: 47979
+(36 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.283086 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:24807 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4D6ED621  Ack: 0x4E6E60E0  Win: 0x801  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.298696 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:25529 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xBE0584F2  Ack: 0x5F701BE0  Win: 0x803  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.332696 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:26967 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x60E9FD5D  Ack: 0x334D814F  Win: 0x800  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.362445 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:28405 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4D7EE709  Ack: 0x4E6E6188  Win: 0x800  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.393146 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:29844 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xFF4FE1FA  Ack: 0xAAD80F17  Win: 0x800  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.428217 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:31282 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xBE25864E  Ack: 0x5F701CDC  Win: 0x802  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.458263 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:32720 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x6109FEB9  Ack: 0x334D824B  Win: 0x7FF  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.486725 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:1390 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4D9EE865  Ack: 0x4E6E6284  Win: 0x7FF  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.495694 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:1768 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4DA7542D  Ack: 0x4E6E6284  Win: 0x7FF  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.526579 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:2828 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xFF6FE356  Ack: 0xAAD81013  Win: 0x7FF  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.527715 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:2976 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xFF732F66  Ack: 0xAAD81013  Win: 0x7FF  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.591513 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:4268 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xBE4587AA  Ack: 0x5F701DD8  Win: 0x801  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.922464 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:5709 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x612A0015  Ack: 0x334D8347  Win: 0x804  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:13.957506 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:7147 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4DBEE9C1  Ack: 0x4E6E6380  Win: 0x804  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:14.043314 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8587 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xFF8FE4B2  Ack: 0xAAD8110F  Win: 0x804  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:14.075235 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:10026 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xBE658906  Ack: 0x5F701ED4  Win: 0x800  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:14.106167 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:11464 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x614A0171  Ack: 0x334D8443  Win: 0x803  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:14.134974 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:12902 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4DDEEB1D  Ack: 0x4E6E647C  Win: 0x803  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:14.190956 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14342 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xFFAFE60E  Ack: 0xAAD8120B  Win: 0x803  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:14.221109 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:15781 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xBE858A62  Ack: 0x5F701FD0  Win: 0x7FF  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:14.558978 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:17223 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x616A02CD  Ack: 0x334D853F  Win: 0x802  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:14.899808 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:18665 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4DFEEC79  Ack: 0x4E6E6578  Win: 0x802  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:14.958476 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:20105 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xFFCFE76A  Ack: 0xAAD81307  Win: 0x802  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:15.012062 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:21544 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xBEA58BBE  Ack: 0x5F7020CC  Win: 0x804  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:15.101314 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:22985 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x618A0429  Ack: 0x334D863B  Win: 0x801  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:15.160963 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:24426 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4E1EEDD5  Ack: 0x4E6E6674  Win: 0x801  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:15.191224 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:25864 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xFFEFE8C6  Ack: 0xAAD81403  Win: 0x801  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:15.222844 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:27302 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xBEC58D1A  Ack: 0x5F7021C8  Win: 0x803  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:16.032886 192.168.111.15:445 -> 192.168.111.115:2101
+TCP TTL:128 TOS:0x0 ID:4203 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4E83FCA9  Ack: 0x4E3D7233  Win: 0xFD  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:16.758192 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:10951 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x60CA6F94  Ack: 0xBED42135  Win: 0x7C28  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:16.834877 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:16081 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x61045CAC  Ack: 0xBED424DD  Win: 0x7C24  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:16.955913 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:24150 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x6167B2B4  Ack: 0xBED42ACE  Win: 0x7C1F  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:17.355273 192.168.111.15:445 -> 192.168.111.115:2101
+TCP TTL:128 TOS:0x0 ID:29845 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4FC89D0C  Ack: 0x4E3D98CF  Win: 0x100  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:17.959853 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:3845 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x631E9D78  Ack: 0xBED4567D  Win: 0x7BF3  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:18.035965 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:8971 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x63608AE4  Ack: 0xBED45A9A  Win: 0x7BEF  TcpLen: 20
+
+[**] [1:100000137:1] COMMUNITY MISC BAD-SSL tcp detect [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:18.155989 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:17040 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x63B3E044  Ack: 0xBED45FA1  Win: 0x7BEA  TcpLen: 20
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:20:23.208418 192.168.111.115:31974 -> 35.158.56.236:443
+TCP TTL:128 TOS:0x0 ID:5895 IpLen:20 DgmLen:273 DF
+***AP*** Seq: 0x9DAB1F50  Ack: 0x1440AD59  Win: 0xFAF0  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:20:30.147431 192.168.111.115:31977 -> 35.158.56.236:443
+TCP TTL:128 TOS:0x0 ID:5908 IpLen:20 DgmLen:273 DF
+***AP*** Seq: 0xDCD3EB8  Ack: 0x7B342714  Win: 0xFAF0  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:20:49.760900 192.168.111.115:31989 -> 192.30.253.116:443
+TCP TTL:128 TOS:0x0 ID:29850 IpLen:20 DgmLen:307 DF
+***AP*** Seq: 0x5957EE6E  Ack: 0xF8048B6D  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:20:50.249510 192.168.111.115:31990 -> 192.30.253.116:443
+TCP TTL:128 TOS:0x0 ID:29859 IpLen:20 DgmLen:339 DF
+***AP*** Seq: 0xBB814123  Ack: 0x5CB9BF2C  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:20:51.460951 192.168.111.115:31991 -> 192.30.253.116:443
+TCP TTL:128 TOS:0x0 ID:29866 IpLen:20 DgmLen:307 DF
+***AP*** Seq: 0xC1E0B3B4  Ack: 0x68151C5F  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:20:51.902974 192.168.111.115:31992 -> 192.30.253.116:443
+TCP TTL:128 TOS:0x0 ID:29875 IpLen:20 DgmLen:339 DF
+***AP*** Seq: 0x4038C99E  Ack: 0xA745374  Win: 0x102  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:2506:9] WEB-MISC SSLv3 invalid timestamp attempt [**]
+[Classification: Attempted Denial of Service] [Priority: 2] 
+06/21-14:20:52.531281 192.168.111.115:31993 -> 151.101.16.133:443
+TCP TTL:128 TOS:0x0 ID:3546 IpLen:20 DgmLen:262 DF
+***AP*** Seq: 0xFF27E0C9  Ack: 0x22763677  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=12204][Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0120][Xref => http://www.securityfocus.com/bid/10115]
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:58.808033 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5904 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33954 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 62107
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:58.857214 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5905 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33955 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 14171
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:58.908985 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5906 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33956 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 9233
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:59.838614 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5907 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33957 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 62107
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:59.890459 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5908 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33958 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 14171
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:20:59.942260 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5909 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33959 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 9233
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:21:00.303764 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5910 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33960 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 62107
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:21:00.355625 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5911 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33961 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 14171
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:21:00.407872 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5913 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33962 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 9233
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:21:01.336418 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5914 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33963 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 62107
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:21:01.388273 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5915 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33964 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 14171
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:21:01.440464 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5916 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33965 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 9233
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:21:02.318104 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5917 IpLen:20 DgmLen:355
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33966 IpLen:20 DgmLen:327 DF
+Len: 299  Csum: 62107
+(299 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:21:02.370062 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5918 IpLen:20 DgmLen:364
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33967 IpLen:20 DgmLen:336 DF
+Len: 308  Csum: 14171
+(308 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:21:02.422199 192.168.111.115 -> 192.168.111.132
+ICMP TTL:128 TOS:0x0 ID:5919 IpLen:20 DgmLen:358
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.111.132:1900 -> 192.168.111.115:58445
+UDP TTL:64 TOS:0x0 ID:33968 IpLen:20 DgmLen:330 DF
+Len: 302  Csum: 9233
+(302 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:1411:10] SNMP public access udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:21:12.562480 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:15173 IpLen:20 DgmLen:106
+Len: 78
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0517][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088][Xref => http://www.securityfocus.com/bid/2112]
+
+[**] [1:1417:9] SNMP request udp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/21-14:21:12.562480 192.168.111.115:49669 -> 192.168.111.200:161
+UDP TTL:128 TOS:0x0 ID:15173 IpLen:20 DgmLen:106
+Len: 78
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:254:4] DNS SPOOF query response with TTL of 1 min. and no authority [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/21-14:21:12.944076 192.168.111.10:53 -> 192.168.111.115:51558
+UDP TTL:128 TOS:0x0 ID:1912 IpLen:20 DgmLen:80
+Len: 52
+
+[**] [1:538:15] NETBIOS SMB IPC$ unicode share access [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+06/21-14:21:26.127009 192.168.111.115:32025 -> 192.168.111.150:139
+TCP TTL:128 TOS:0x0 ID:21697 IpLen:20 DgmLen:122 DF
+***AP*** Seq: 0x5FCDDE8A  Ack: 0xA1865113  Win: 0xFE  TcpLen: 20
+
+[**] [1:2102:9] NETBIOS SMB SMB_COM_TRANSACTION Max Data Count of 0 DOS Attempt [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+06/21-14:21:26.160963 192.168.111.115:32025 -> 192.168.111.150:139
+TCP TTL:128 TOS:0x0 ID:21705 IpLen:20 DgmLen:158 DF
+***AP*** Seq: 0x5FCDDEDC  Ack: 0xA186514F  Win: 0xFD  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11110][Xref => http://www.microsoft.com/technet/security/bulletin/MS02-045.mspx][Xref => http://www.corest.com/common/showdoc.php?idx=262][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0724][Xref => http://www.securityfocus.com/bid/5556]
+
+[**] [1:2102:9] NETBIOS SMB SMB_COM_TRANSACTION Max Data Count of 0 DOS Attempt [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+06/21-14:21:30.667154 192.168.111.115:32025 -> 192.168.111.150:139
+TCP TTL:128 TOS:0x0 ID:21979 IpLen:20 DgmLen:172 DF
+***AP*** Seq: 0x5FCDDF52  Ack: 0xA18651B3  Win: 0xFD  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11110][Xref => http://www.microsoft.com/technet/security/bulletin/MS02-045.mspx][Xref => http://www.corest.com/common/showdoc.php?idx=262][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0724][Xref => http://www.securityfocus.com/bid/5556]
+
+[**] [1:2102:9] NETBIOS SMB SMB_COM_TRANSACTION Max Data Count of 0 DOS Attempt [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+06/21-14:21:30.667207 192.168.111.115:32025 -> 192.168.111.150:139
+TCP TTL:128 TOS:0x0 ID:21981 IpLen:20 DgmLen:158 DF
+***AP*** Seq: 0x5FCDDFD6  Ack: 0xA18651B3  Win: 0xFD  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11110][Xref => http://www.microsoft.com/technet/security/bulletin/MS02-045.mspx][Xref => http://www.corest.com/common/showdoc.php?idx=262][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0724][Xref => http://www.securityfocus.com/bid/5556]
+
+[**] [1:2102:9] NETBIOS SMB SMB_COM_TRANSACTION Max Data Count of 0 DOS Attempt [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+06/21-14:21:42.678785 192.168.111.115:32025 -> 192.168.111.150:139
+TCP TTL:128 TOS:0x0 ID:22090 IpLen:20 DgmLen:172 DF
+***AP*** Seq: 0x5FCDE04C  Ack: 0xA1865651  Win: 0x100  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11110][Xref => http://www.microsoft.com/technet/security/bulletin/MS02-045.mspx][Xref => http://www.corest.com/common/showdoc.php?idx=262][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0724][Xref => http://www.securityfocus.com/bid/5556]
+
+[**] [1:459:7] ICMP unassigned type 1 undefined code [**]
+[Classification: Misc activity] [Priority: 3] 
+06/21-14:22:05.791512 fe80:0000:0000:0000:81fb:4d2c:8173:58a4 -> fe80:0000:0000:0000:0abd:43ff:fef6:41b6
+IPV6-ICMP TTL:128 TOS:0x0 ID:0 IpLen:40 DgmLen:121
+
