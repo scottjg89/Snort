@@ -1,0 +1,1035 @@
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.885966 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8482 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC02B1400  Ack: 0x67AF3768  Win: 0x7FF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.893950 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8562 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F5C9A3A  Ack: 0x54FA4682  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.894026 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8571 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F5CCD8E  Ack: 0x54FA4682  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.894122 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8583 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F5D11FE  Ack: 0x54FA4682  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.894351 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8601 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62CED98F  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.894505 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8624 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62CF5CBB  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.894821 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8655 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC02CC53C  Ack: 0x67AF39A4  Win: 0x803  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.894842 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8658 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC02CD658  Ack: 0x67AF39A4  Win: 0x803  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.894875 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8663 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC02CF2DC  Ack: 0x67AF39A4  Win: 0x803  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.894925 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8670 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC02D1AC8  Ack: 0x67AF39A4  Win: 0x803  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.894966 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8688 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F5D78A6  Ack: 0x54FA4682  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.895092 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8702 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F5DC87E  Ack: 0x54FA4682  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.895126 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8707 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F5DE502  Ack: 0x54FA4682  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.895133 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8708 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F5DEAB6  Ack: 0x54FA4682  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.895267 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8720 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F5E2F26  Ack: 0x54FA4682  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.895310 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8726 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F5E515E  Ack: 0x54FA4682  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.895384 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8740 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x146B8F2  Ack: 0xB014D095  Win: 0xB4A  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.895391 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8741 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x146BEA6  Ack: 0xB014D095  Win: 0xB4A  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.895936 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8811 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x1484DDE  Ack: 0xB014D095  Win: 0xB4A  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.895944 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8812 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x1485392  Ack: 0xB014D095  Win: 0xB4A  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.896236 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:8851 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x14931FE  Ack: 0xB014D095  Win: 0xB4A  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.897040 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9018 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F5EDA3E  Ack: 0x54FA4682  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.897651 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9074 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D0F1A7  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.897738 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9085 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D13063  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906569 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9181 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D1E6E3  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906577 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9182 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D1EC97  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906600 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9185 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D1FDB3  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906624 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9188 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D20ECF  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906639 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9190 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D21A37  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906719 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9199 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D24D8B  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906727 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9200 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D2533F  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906735 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9201 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D258F3  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906801 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9210 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D28C47  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906825 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9212 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D297AF  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906832 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9213 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D29D63  Ack: 0x38C1F6CE  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.906969 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9232 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC02FBBC0  Ack: 0x67AF39A4  Win: 0x803  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.907125 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9252 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC0302DD0  Ack: 0x67AF39A4  Win: 0x803  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.927422 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9546 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D2D75B  Ack: 0x38C1F9D4  Win: 0x802  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.927578 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9568 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62D354D3  Ack: 0x38C1F9D4  Win: 0x802  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.944135 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9700 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F6481B2  Ack: 0x54FA4A4A  Win: 0x802  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.944181 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9706 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F64A3EA  Ack: 0x54FA4A4A  Win: 0x802  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:13.944196 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:9708 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F64AF52  Ack: 0x54FA4A4A  Win: 0x802  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:1394:5] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:14.237624 192.168.111.115:18278 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:11514 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x62DAAA07  Ack: 0x38C242F8  Win: 0x800  TcpLen: 20
+
+[**] [1:1394:5] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:15.856792 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:13266 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x1581639  Ack: 0xB01577FB  Win: 0xB4A  TcpLen: 20
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.011820 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14119 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F7AB3F4  Ack: 0x54FB1C8F  Win: 0x7FF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.011953 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14136 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F7B14E8  Ack: 0x54FB1C8F  Win: 0x7FF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.024547 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14214 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x15BD9F2  Ack: 0xB015965D  Win: 0xB4B  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.025180 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14280 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC0430091  Ack: 0x67B0075E  Win: 0x804  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.055989 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14416 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC044FB61  Ack: 0x67B00B82  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.056026 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14421 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC04517E5  Ack: 0x67B00B82  Win: 0x800  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.063799 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14462 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F7C2944  Ack: 0x54FB24E7  Win: 0x802  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.105143 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14595 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F7D3774  Ack: 0x54FB2AF3  Win: 0x802  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.105173 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14599 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F7D4E44  Ack: 0x54FB2AF3  Win: 0x802  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.122987 192.168.111.115:2101 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14668 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4F7DD1F4  Ack: 0x54FB2DF9  Win: 0x7FF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.130731 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14713 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC047B5A1  Ack: 0x67B0179A  Win: 0x801  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:1292:9] ATTACK-RESPONSES directory listing [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/22-12:55:16.204290 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:14902 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x15D2024  Ack: 0xB015B2A9  Win: 0xB47  TcpLen: 20
+
+[**] [1:1394:5] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.366867 192.168.111.115:18279 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:15171 IpLen:20 DgmLen:978 DF
+***AP*** Seq: 0xC0492D95  Ack: 0x67B04C27  Win: 0x800  TcpLen: 20
+
+[**] [1:1390:5] SHELLCODE x86 inc ebx NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.790252 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:16243 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x160FBBA  Ack: 0xB0161A3A  Win: 0xB46  TcpLen: 20
+
+[**] [1:1394:5] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.790252 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:16243 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x160FBBA  Ack: 0xB0161A3A  Win: 0xB46  TcpLen: 20
+
+[**] [1:1390:5] SHELLCODE x86 inc ebx NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.790274 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:16246 IpLen:20 DgmLen:1321 DF
+***AP*** Seq: 0x1610CD6  Ack: 0xB0161A3A  Win: 0xB46  TcpLen: 20
+
+[**] [1:1394:5] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:16.790274 192.168.111.115:18280 -> 192.168.111.15:445
+TCP TTL:128 TOS:0x0 ID:16246 IpLen:20 DgmLen:1321 DF
+***AP*** Seq: 0x1610CD6  Ack: 0xB0161A3A  Win: 0xB46  TcpLen: 20
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.104912 192.168.111.15:445 -> 192.168.111.115:18278
+TCP TTL:128 TOS:0x0 ID:9510 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x38D3B77B  Ack: 0x62F02984  Win: 0x100  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.109380 192.168.111.15:445 -> 192.168.111.115:2101
+TCP TTL:128 TOS:0x0 ID:9660 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x551D74CD  Ack: 0x4F87E484  Win: 0xFD  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.116445 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9793 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67BF3924  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.117528 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9805 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67BF7D94  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.119325 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:10082 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB0242C3B  Ack: 0x1648E0E  Win: 0x6711  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.119488 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:10116 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB02492E3  Ack: 0x1648E0E  Win: 0x6711  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.119550 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:10141 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB024E2BB  Ack: 0x1648E0E  Win: 0x6711  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.120376 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9823 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67BFE43C  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.121366 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9837 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C03414  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.121366 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9838 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C039C8  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.122468 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9842 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C05098  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.122469 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9843 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C0564C  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.122573 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9855 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C09ABC  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.122856 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9885 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C145D4  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.123585 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9964 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C30860  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.123586 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9965 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C30E14  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.123589 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9971 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C3304C  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.123674 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9974 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C34168  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.123766 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9986 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C385D8  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.123767 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:9987 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C38B8C  Ack: 0xC04E5B46  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.124341 192.168.111.15:445 -> 192.168.111.115:2101
+TCP TTL:128 TOS:0x0 ID:10274 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x551F0EFF  Ack: 0x4F87E6EE  Win: 0xFB  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.124828 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:10326 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C4E1BC  Ack: 0xC04E5CC6  Win: 0xFE  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.125368 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:10479 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C64908  Ack: 0xC04E5CC6  Win: 0xFE  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.125638 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:10506 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C6E304  Ack: 0xC04E5CC6  Win: 0xFE  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.125818 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:10525 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C74F60  Ack: 0xC04E5CC6  Win: 0xFE  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.125820 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:10528 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C7607C  Ack: 0xC04E5CC6  Win: 0xFE  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.125909 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:10538 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C79984  Ack: 0xC04E5CC6  Win: 0xFE  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.126440 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:10597 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67C8EA00  Ack: 0xC04E5CC6  Win: 0xFE  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:1394:5] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.203112 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:13216 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB029EA48  Ack: 0x1649D3F  Win: 0x6701  TcpLen: 20
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.223146 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:13891 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67CB1E93  Ack: 0xC04E7741  Win: 0xFD  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.223148 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:13895 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67CB3563  Ack: 0xC04E7741  Win: 0xFD  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.223215 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:13902 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67CB5D4F  Ack: 0xC04E7741  Win: 0xFD  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.223392 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:13940 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67CC3607  Ack: 0xC04E7741  Win: 0xFD  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.223449 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:13948 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67CC63A7  Ack: 0xC04E7741  Win: 0xFD  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.223561 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:13963 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67CCB933  Ack: 0xC04E7741  Win: 0xFD  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:1394:5] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.276902 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:16231 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB0336BE5  Ack: 0x164AD41  Win: 0x66F1  TcpLen: 20
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.354254 192.168.111.15:445 -> 192.168.111.115:18278
+TCP TTL:128 TOS:0x0 ID:17722 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x38E0595F  Ack: 0x63005976  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.354384 192.168.111.15:445 -> 192.168.111.115:18278
+TCP TTL:128 TOS:0x0 ID:17731 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x38E08CB3  Ack: 0x63005976  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.365681 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:18131 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67E2FDD4  Ack: 0xC04E8A63  Win: 0xFD  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.365793 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:18156 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x67E38C68  Ack: 0xC04E8A63  Win: 0xFD  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.420879 192.168.111.15:445 -> 192.168.111.115:18278
+TCP TTL:128 TOS:0x0 ID:19725 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x38E1C46B  Ack: 0x63105E0B  Win: 0xFF  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.442415 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:20190 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB0403393  Ack: 0x164BDFC  Win: 0x66E1  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.442502 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:20194 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB0404A63  Ack: 0x164BDFC  Win: 0x66E1  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:648:7] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.455664 192.168.111.15:445 -> 192.168.111.115:18278
+TCP TTL:128 TOS:0x0 ID:20522 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x38E4058F  Ack: 0x6310666E  Win: 0xFC  TcpLen: 20
+[Xref => http://www.whitehats.com/info/IDS181]
+
+[**] [1:1394:5] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.523353 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:21786 IpLen:20 DgmLen:946 DF
+***AP*** Seq: 0x67E6811B  Ack: 0xC05EA4D0  Win: 0xFF  TcpLen: 20
+
+[**] [1:493:5] INFO psyBNC access [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+06/22-12:55:27.576370 192.168.111.15:445 -> 192.168.111.115:18279
+TCP TTL:128 TOS:0x0 ID:22856 IpLen:20 DgmLen:497 DF
+***AP*** Seq: 0x67E8D86B  Ack: 0xC05EB431  Win: 0xFC  TcpLen: 20
+
+[**] [1:1390:5] SHELLCODE x86 inc ebx NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.650260 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:24434 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB04910A8  Ack: 0x164F604  Win: 0x66A9  TcpLen: 20
+
+[**] [1:1394:5] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.650260 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:24434 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB04910A8  Ack: 0x164F604  Win: 0x66A9  TcpLen: 20
+
+[**] [1:1390:5] SHELLCODE x86 inc ebx NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.650263 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:24437 IpLen:20 DgmLen:1289 DF
+***AP*** Seq: 0xB04921C4  Ack: 0x164F604  Win: 0x66A9  TcpLen: 20
+
+[**] [1:1394:5] SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+06/22-12:55:27.650263 192.168.111.15:445 -> 192.168.111.115:18280
+TCP TTL:128 TOS:0x0 ID:24437 IpLen:20 DgmLen:1289 DF
+***AP*** Seq: 0xB04921C4  Ack: 0x164F604  Win: 0x66A9  TcpLen: 20
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-12:59:19.221858 192.168.111.115:57653 -> 104.16.22.35:80
+TCP TTL:128 TOS:0x0 ID:8142 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB6CC0181  Ack: 0x8B90E532  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-12:59:19.634114 192.168.111.115:57687 -> 104.16.27.235:80
+TCP TTL:56 TOS:0x0 ID:1990 IpLen:20 DgmLen:2640 DF
+***A**** Seq: 0x9ED00F88  Ack: 0xFC7AB13F  Win: 0x8C00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-12:59:19.839700 192.168.111.115:57692 -> 104.16.25.35:80
+TCP TTL:128 TOS:0x0 ID:5765 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB6D224B3  Ack: 0xAE438099  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-12:59:20.827983 192.168.111.115:57732 -> 204.2.197.201:80
+TCP TTL:49 TOS:0x0 ID:10040 IpLen:20 DgmLen:2206 DF
+***A**** Seq: 0x2C39D19F  Ack: 0xFA1912DA  Win: 0x8300  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-12:59:21.044808 192.168.111.115:57721 -> 104.16.25.235:80
+TCP TTL:128 TOS:0x0 ID:27142 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x77243D36  Ack: 0xB90C9ABA  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-12:59:21.063564 192.168.111.115:57720 -> 104.16.25.235:80
+TCP TTL:128 TOS:0x0 ID:27144 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x4BF93E97  Ack: 0x513D64B3  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:2925:3] INFO web bug 0x0 gif attempt [**]
+[Classification: Misc activity] [Priority: 3] 
+06/22-12:59:21.217017 74.118.186.126:80 -> 192.168.111.115:57724
+TCP TTL:241 TOS:0x8 ID:52518 IpLen:20 DgmLen:827 DF
+***AP*** Seq: 0xB52C7F28  Ack: 0x60B19084  Win: 0x134A  TcpLen: 20
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-12:59:22.597914 192.168.111.115:57687 -> 104.16.27.235:80
+TCP TTL:56 TOS:0x0 ID:1994 IpLen:20 DgmLen:2660 DF
+***A**** Seq: 0x9ED019B0  Ack: 0xFC7AB778  Win: 0xA000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:00:32.198449 192.168.111.115:57857 -> 104.16.23.235:80
+TCP TTL:56 TOS:0x0 ID:54811 IpLen:20 DgmLen:2747 DF
+***A**** Seq: 0xFC77B8D3  Ack: 0x2465C62A  Win: 0x8C00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:00:32.594056 192.168.111.115:57858 -> 104.16.25.35:80
+TCP TTL:56 TOS:0x0 ID:33608 IpLen:20 DgmLen:2384 DF
+***A**** Seq: 0x71B635F  Ack: 0xFF2793C5  Win: 0x8C00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:11:44.239645 192.168.111.115:58728 -> 104.16.25.235:80
+TCP TTL:56 TOS:0x0 ID:4025 IpLen:20 DgmLen:2760 DF
+***A**** Seq: 0x60FE6534  Ack: 0x314190C  Win: 0x8C00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:15:16.404764 192.168.111.115:59036 -> 104.16.26.235:80
+TCP TTL:56 TOS:0x0 ID:26371 IpLen:20 DgmLen:2750 DF
+***A**** Seq: 0xE4A5EE01  Ack: 0x1E6F0E89  Win: 0x8C00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:469:3] ICMP PING NMAP [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/22-13:17:35.152646 192.168.111.115 -> 91.185.183.121
+ICMP TTL:41 TOS:0x0 ID:21726 IpLen:20 DgmLen:28
+Type:8  Code:0  ID:61514   Seq:0  ECHO
+[Xref => http://www.whitehats.com/info/IDS162]
+
+[**] [1:469:3] ICMP PING NMAP [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/22-13:18:04.595630 192.168.111.115 -> 91.185.183.121
+ICMP TTL:45 TOS:0x0 ID:30238 IpLen:20 DgmLen:28
+Type:8  Code:0  ID:45435   Seq:0  ECHO
+[Xref => http://www.whitehats.com/info/IDS162]
+
+[**] [1:1421:11] SNMP AgentX/tcp request [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/22-13:18:08.267964 192.168.111.115:54989 -> 91.185.183.121:705
+TCP TTL:56 TOS:0x0 ID:31109 IpLen:20 DgmLen:44
+******S* Seq: 0xCD013910  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:1421:11] SNMP AgentX/tcp request [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/22-13:18:08.371709 192.168.111.115:54990 -> 91.185.183.121:705
+TCP TTL:41 TOS:0x0 ID:17265 IpLen:20 DgmLen:44
+******S* Seq: 0xCD003911  Ack: 0x0  Win: 0x400  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:2515:13] WEB-MISC PCT Client_Hello overflow attempt [**]
+[Classification: Attempted Administrator Privilege Gain] [Priority: 1] 
+06/22-13:18:35.976886 192.168.111.115:59351 -> 91.185.183.121:443
+TCP TTL:128 TOS:0x0 ID:15943 IpLen:20 DgmLen:113 DF
+***AP*** Seq: 0xAF6F32FB  Ack: 0x2ABEF9F2  Win: 0xFB  TcpLen: 20
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0719][Xref => http://www.securityfocus.com/bid/10116]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:22:16.672557 192.168.111.115:59638 -> 104.16.19.35:80
+TCP TTL:128 TOS:0x0 ID:11617 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x90BFE193  Ack: 0x77C9E749  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:22:17.009337 192.168.111.115:59647 -> 104.16.27.235:80
+TCP TTL:56 TOS:0x0 ID:17155 IpLen:20 DgmLen:2631 DF
+***A**** Seq: 0xA2B641D8  Ack: 0xA6809206  Win: 0x8C00  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:22:17.230792 192.168.111.115:59651 -> 104.16.22.35:80
+TCP TTL:128 TOS:0x0 ID:8284 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x7E3BD6D5  Ack: 0x8DCC47A2  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:22:19.343849 192.168.111.115:59647 -> 104.16.27.235:80
+TCP TTL:56 TOS:0x0 ID:17158 IpLen:20 DgmLen:2660 DF
+***A**** Seq: 0xA2B64BF7  Ack: 0xA680959B  Win: 0xA000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:22:20.698257 192.168.111.115:59647 -> 104.16.27.235:80
+TCP TTL:56 TOS:0x0 ID:17161 IpLen:20 DgmLen:2743 DF
+***A**** Seq: 0xA2B65633  Ack: 0xA6809699  Win: 0xB800  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:22:21.053375 192.168.111.115:59651 -> 104.16.22.35:80
+TCP TTL:56 TOS:0x0 ID:21372 IpLen:20 DgmLen:2381 DF
+***A**** Seq: 0x7E3BDFBC  Ack: 0x8DCC49E4  Win: 0xA000  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:23:49.969633 192.168.111.115:59856 -> 157.56.148.23:80
+TCP TTL:128 TOS:0x0 ID:20408 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x429177E6  Ack: 0x3E5DFCB2  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:2404:5] NETBIOS SMB-DS Session Setup AndX request unicode username overflow attempt [**]
+[Classification: Attempted Administrator Privilege Gain] [Priority: 1] 
+06/22-13:41:51.462418 192.168.111.115:60640 -> 192.168.107.20:445
+TCP TTL:128 TOS:0x0 ID:16087 IpLen:20 DgmLen:614 DF
+***AP*** Seq: 0xA95E06A6  Ack: 0x8FBB34B2  Win: 0xFF  TcpLen: 20
+[Xref => http://www.eeye.com/html/Research/Advisories/AD20040226.html][Xref => http://www.securityfocus.com/bid/9752]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:41:54.514684 192.168.111.115:60749 -> 2.19.62.123:80
+TCP TTL:128 TOS:0x0 ID:1580 IpLen:20 DgmLen:1282 DF
+***AP*** Seq: 0x3CF3B6D7  Ack: 0x44836049  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:41:54.560207 192.168.111.115:60750 -> 52.164.240.59:80
+TCP TTL:128 TOS:0x0 ID:1224 IpLen:20 DgmLen:1282 DF
+***AP*** Seq: 0xCE6E7EA0  Ack: 0x67A1DEA6  Win: 0x102  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:41:54.617565 192.168.111.115:60751 -> 2.19.62.123:80
+TCP TTL:128 TOS:0x0 ID:1587 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x176A9F1A  Ack: 0xECAA1933  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:41:54.654523 192.168.111.115:60750 -> 52.164.240.59:80
+TCP TTL:128 TOS:0x0 ID:1227 IpLen:20 DgmLen:1480 DF
+***A**** Seq: 0xCE6E84D1  Ack: 0x67A1E641  Win: 0x102  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:42:03.008555 192.168.111.115:60765 -> 2.19.62.123:80
+TCP TTL:128 TOS:0x0 ID:1594 IpLen:20 DgmLen:1282 DF
+***AP*** Seq: 0x87F6F0E1  Ack: 0x44B82A07  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:42:03.031201 192.168.111.115:60750 -> 52.164.240.59:80
+TCP TTL:128 TOS:0x0 ID:1231 IpLen:20 DgmLen:1282 DF
+***AP*** Seq: 0xCE6E8C10  Ack: 0x67A1EDE2  Win: 0x102  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:42:03.074413 192.168.111.115:60766 -> 2.19.62.123:80
+TCP TTL:128 TOS:0x0 ID:1601 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x98CC930C  Ack: 0xEDF7E5BA  Win: 0x100  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:100000122:1] COMMUNITY WEB-MISC mod_jrun overflow attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+06/22-13:42:03.092979 192.168.111.115:60750 -> 52.164.240.59:80
+TCP TTL:128 TOS:0x0 ID:1234 IpLen:20 DgmLen:1480 DF
+***A**** Seq: 0xCE6E9241  Ack: 0x67A1F57D  Win: 0x102  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2004-0646][Xref => http://www.securityfocus.com/bid/11245]
+
+[**] [1:469:3] ICMP PING NMAP [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/22-13:44:04.133227 192.168.111.171 -> 91.185.183.121
+ICMP TTL:51 TOS:0x0 ID:35899 IpLen:20 DgmLen:28
+Type:8  Code:0  ID:23446   Seq:0  ECHO
+[Xref => http://www.whitehats.com/info/IDS162]
+
+[**] [1:469:3] ICMP PING NMAP [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/22-13:44:06.141773 192.168.111.171 -> 91.185.183.121
+ICMP TTL:49 TOS:0x0 ID:6542 IpLen:20 DgmLen:28
+Type:8  Code:0  ID:55709   Seq:0  ECHO
+[Xref => http://www.whitehats.com/info/IDS162]
+
+[**] [1:469:3] ICMP PING NMAP [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/22-13:44:16.809723 192.168.111.171 -> 91.185.183.121
+ICMP TTL:57 TOS:0x0 ID:62959 IpLen:20 DgmLen:28
+Type:8  Code:0  ID:13640   Seq:0  ECHO
+[Xref => http://www.whitehats.com/info/IDS162]
+
+[**] [1:469:3] ICMP PING NMAP [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/22-13:44:18.819123 192.168.111.171 -> 91.185.183.121
+ICMP TTL:38 TOS:0x0 ID:23097 IpLen:20 DgmLen:28
+Type:8  Code:0  ID:62221   Seq:0  ECHO
+[Xref => http://www.whitehats.com/info/IDS162]
+
+[**] [1:469:3] ICMP PING NMAP [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+06/22-13:44:27.998288 192.168.111.171 -> 91.185.183.121
+ICMP TTL:38 TOS:0x0 ID:38977 IpLen:20 DgmLen:28
+Type:8  Code:0  ID:24062   Seq:0  ECHO
+[Xref => http://www.whitehats.com/info/IDS162]
+
+[**] [1:2515:13] WEB-MISC PCT Client_Hello overflow attempt [**]
+[Classification: Attempted Administrator Privilege Gain] [Priority: 1] 
+06/22-13:47:28.206052 192.168.111.115:60913 -> 23.36.215.158:443
+TCP TTL:128 TOS:0x0 ID:17704 IpLen:20 DgmLen:260 DF
+***AP*** Seq: 0x917A0972  Ack: 0xA96CB594  Win: 0x100  TcpLen: 20
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0719][Xref => http://www.securityfocus.com/bid/10116]
+
