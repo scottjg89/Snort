@@ -24,3 +24,4 @@ foreach($LOG in Get-ChildItem C:\Snort\log){
     }
 }
 rotate($ROTATELOG)
+Write-Host Complete
