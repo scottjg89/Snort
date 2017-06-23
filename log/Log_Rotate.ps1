@@ -23,5 +23,7 @@ foreach($LOG in Get-ChildItem C:\Snort\log){
         }
     }
 }
-rotate($ROTATELOG)
+if($ROTATELOG -gt 0){
+    rotate($ROTATELOG)
+}
 Write-Host Complete
