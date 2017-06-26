@@ -55,7 +55,7 @@ alert tcp $EXTERNAL_NET any -> $HOME_NET 3389 (msg:"MISC MS Terminal Server no e
 
 alert tcp $EXTERNAL_NET any -> $HOME_NET 2533 (msg:"MISC Alcatel PABX 4400 connection attempt"; flow:established,to_server; content:"|00 01|C"; depth:3; reference:nessus,11019; classtype:misc-activity; sid:1819; rev:5;)
 alert udp $EXTERNAL_NET any -> $HOME_NET 67 (msg:"MISC bootp hardware address length overflow"; content:"|01|"; depth:1; byte_test:1,>,6,2; reference:cve,1999-0798; classtype:misc-activity; sid:1939; rev:4;)
-alert udp $EXTERNAL_NET any -> $HOME_NET 67 (msg:"MISC bootp invalid hardware type"; content:"|01|"; depth:1; byte_test:1,>,7,1; reference:cve,1999-0798; classtype:misc-activity; sid:1940; rev:3;)
+#alert udp $EXTERNAL_NET any -> $HOME_NET 67 (msg:"MISC bootp invalid hardware type"; content:"|01|"; depth:1; byte_test:1,>,7,1; reference:cve,1999-0798; classtype:misc-activity; sid:1940; rev:3;)
 alert udp $EXTERNAL_NET any -> $HOME_NET 67 (msg:"MISC bootp hostname format string attempt"; content:"|01|"; depth:1; content:"|0C|"; distance:240; content:"%"; distance:0; content:"%"; within:8; distance:1; content:"%"; within:8; distance:1; reference:bugtraq,4701; reference:cve,2002-0702; reference:nessus,11312; classtype:misc-attack; sid:2039; rev:6;)
 alert udp $EXTERNAL_NET any -> $HOME_NET 27155 (msg:"MISC GlobalSunTech Access Point Information Disclosure attempt"; content:"gstsearch"; reference:bugtraq,6100; classtype:misc-activity; sid:1966; rev:2;)
 alert tcp $EXTERNAL_NET any -> $HOME_NET 7100 (msg:"MISC xfs overflow attempt"; flow:to_server,established; dsize:>512; content:"B|00 02|"; depth:3; reference:bugtraq,6241; reference:cve,2002-1317; reference:nessus,11188; classtype:misc-activity; sid:1987; rev:7;)
